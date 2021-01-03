@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/login-cover", {data:[{}],fetch:{},mutations:void 0});
