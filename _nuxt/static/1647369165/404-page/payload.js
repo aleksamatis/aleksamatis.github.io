@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/404-page", {data:[{}],fetch:{},mutations:void 0});

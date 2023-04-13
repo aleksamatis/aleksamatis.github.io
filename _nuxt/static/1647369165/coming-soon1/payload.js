@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/coming-soon1", {data:[{}],fetch:{},mutations:void 0});
