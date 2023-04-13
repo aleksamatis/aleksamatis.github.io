@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/password-recovery-cover", {data:[{}],fetch:{},mutations:void 0});
